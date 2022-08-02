@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281469682297",
+    "project_id": "chatlogs-ce7a0",
+    "storage_bucket": "chatlogs-ce7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281469682297:android:15623cb2b5f8895b0c0aa8",
+        "android_client_info": {
+          "package_name": "com.example.chatlogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281469682297-empa9u1qq1egf5uemdpo2rqk674thns4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyA3IbGLzQXv4zLtA4IZiANEx4gPDT9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281469682297-empa9u1qq1egf5uemdpo2rqk674thns4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
